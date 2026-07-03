@@ -1,4 +1,4 @@
-INTERN ID: CITS6126
+INTERN ID: CITS6145
 # Hospital Management System
 
 Hospital Hub is a monorepo-based Hospital Management System (HMS) that combines a React + Vite frontend with an Express backend and shared TypeScript libraries.
